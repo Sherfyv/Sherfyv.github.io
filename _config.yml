@@ -24,18 +24,20 @@ author:
   # Biographic information
   avatar           : "figure_me.jpg"
   name             : "Xuefei Han"
+  pronouns         : "she/her"  
+  bio              : "PhD student in the USTC"
   location         : "Hefei, Anhui"
   employer         : "USTC"
-  email            : "hxf320@mail.ustc.edu.cn"
+  email            : "hxf320@mail.ustc.edu.cn" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=TuaBJIgAAAAJ&hl=zh-CN"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3080-1426"
-  researchgate     : "https://www.researchgate.net/profile/Minzhe-Hu?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
+  googlescholar    : #"https://scholar.google.com/citations?user=TuaBJIgAAAAJ&hl=zh-CN"
+  orcid            : "https://orcid.org/0009-0006-0482-3401"
+  researchgate     : "https://www.researchgate.net/profile/Xuefei-Han-3"
   linkedin         : "minzhe-hu-25131725b"
 
   # Repositories and software development
-  github           : "HMZ-03" 
+  github           : "Sherfyv" 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
