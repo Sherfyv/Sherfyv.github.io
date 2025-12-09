@@ -39,8 +39,6 @@ Awards
 - 2020 Academician Scholarship, CUG
 - 2019 National Scholarship, Ministry of Education, China
 
-
-
 Contact
 ------
 Department of Earth and Space Sciences  
