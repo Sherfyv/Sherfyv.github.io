@@ -6,7 +6,6 @@ permalink: /publications/2025-1-3-Real-time-SWS
 excerpt: '**Xuefei Han**, Zefeng Li\*, Feng Liu, Junlun Li, and Huajian Yao'
 date: 2025-01-03
 venue: 'Bulletin of the Seismological Society of America'
-paperurl: 'https://hmz-03.github.io/files/Hu,%20Li%20-%202025%20-%20Rapid%20fault%20detection%20on%20terrestrial%20and%20submarine%20environments%20with%20fiber-optic%20sensing.pdf'
 citation: 'Xuefei Han, Zefeng Li, Feng Liu, Junlun Li, Huajian Yao; Real‐Time Local Shear‐Wave Splitting Measurement: Application to the Vicinity of the Baihetan Hydropower Plant. Bulletin of the Seismological Society of America 2025;; 115 (2): 505–515. doi: https://doi.org/10.1785/0120240066'
 ---
 
