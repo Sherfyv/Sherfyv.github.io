@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-TA Ph.D of [DAMS](https://en.dams.ustc.edu.cn/People/list.htm) (DAta Mining for Seismology) group in USTC.
+A Ph.D of [DAMS](https://en.dams.ustc.edu.cn/People/list.htm) (DAta Mining for Seismology) group in USTC.
 
 Education
 ------
