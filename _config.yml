@@ -13,29 +13,29 @@ title                    : "Xuefei Han"
 title_separator          : "-"
 name                     : "Xuefei Han"
 description              : &description "personal description"
-url                      : "https://XuefeiHan-seis.github.io"
+url                      : "https://Sherfyv.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Sherfyv/XuefeiHan-seis.github.io"
+repository               : "Sherfyv/Sherfyv.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "figure_me.jpg"
-  name             : "Xuefei Han"
-  pronouns         : "she/her"  
-  bio              : "PhD student in the USTC"
+  avatar           : "MinzheHu.jpg"
+  name             : "Minzhe Hu"
   location         : "Hefei, Anhui"
   employer         : "USTC"
-  email            : "hxf320@mail.ustc.edu.cn" 
+  email            : "hmz2018@mail.ustc.edu.cn"
 
   # Academic websites
-  orcid            : "https://orcid.org/0009-0006-0482-3401"
-  researchgate     : "https://www.researchgate.net/profile/Xuefei-Han-3"
+  googlescholar    : "https://scholar.google.com/citations?user=TuaBJIgAAAAJ&hl=zh-CN"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3080-1426"
+  researchgate     : "https://www.researchgate.net/profile/Minzhe-Hu?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
+  linkedin         : "minzhe-hu-25131725b"
 
   # Repositories and software development
-  github           : "Sherfyv" 
+  github           : "HMZ-03" 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
